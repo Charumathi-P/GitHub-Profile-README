@@ -3,7 +3,12 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Charumathi-P?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/Charumathi-P?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Profile-View%20on%20GitHub-blue?style=for-the-badge&logo=github" />
+  
+<p align="center">
+  <a href="https://github.com/Charumathi-P">
+    <img src="https://img.shields.io/badge/GitHub-Charumathi--P-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 </p>
 
 ---
