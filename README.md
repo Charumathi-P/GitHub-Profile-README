@@ -1,8 +1,8 @@
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/Charumathi-P?tab=stars&theme=algolia&title=Stars" />
-  <img src="https://github.com/Charumathi-P?tab=followers&theme=algolia&title=Followers" />
-  <img src="https://github.com/Charumathi-P?tab=repositories&theme=algolia&title=Repositories" />
+![Followers](https://img.shields.io/github/followers/Charumathi-P?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Charumathi-P?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View%20Profile-blue?style=for-the-badge)
 </p>
 
 <p align="center">
