@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Stars" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Followers" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=Charumathi-P](https://github.com/Charumathi-P?tab=followers)&theme=algolia&title=Followers" />
   <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Repositories" />
 </p>
 
