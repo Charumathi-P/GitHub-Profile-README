@@ -1,21 +1,14 @@
 ## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophy Details
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Repositories" />
+</p>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Commits&theme=algolia" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Repositories&theme=algolia" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Followers&theme=algolia" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Stars&theme=algolia" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=PullRequest&theme=algolia" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Issues&theme=algolia" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Issues" />
 </p>
 ---
 
