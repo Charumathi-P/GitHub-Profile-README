@@ -1,15 +1,9 @@
 ## 🏆 GitHub Trophies
-<p align="center">
-![Followers](https://img.shields.io/github/followers/Charumathi-P?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Charumathi-P?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-View%20Profile-blue?style=for-the-badge)
-</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Commits" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=PullRequest" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&title=Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&row=1&column=7" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
