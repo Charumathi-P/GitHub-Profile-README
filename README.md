@@ -14,8 +14,6 @@
 ---
 
 ---
-![Ravibalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAVIBALANRAJU&theme=dark&hide_border=false)
-
 ## 📊 GitHub Stats
 
 <p align="center">
