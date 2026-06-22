@@ -1,9 +1,22 @@
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&row=1&column=7" />
-</p>
+## 🏆 GitHub Trophy Details
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Commits&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Repositories&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Followers&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Stars&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=PullRequest&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&title=Issues&theme=algolia" />
+
+</p>
 ---
 
 ## 📊 GitHub Stats
