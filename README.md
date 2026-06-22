@@ -4,6 +4,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Charumathi-P&theme=algolia&row=1&column=7" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Charumathi-P?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Charumathi-P?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Profile-View%20on%20GitHub-blue?style=for-the-badge&logo=github" />
+</p>
+
+---
+
 ---
 
 ## 📊 GitHub Stats
